@@ -1,0 +1,1211 @@
+# sent_id = instagram-4
+# genre = social
+# text = Мы собираем свой #Топ100 - что увидеть и попробовать во Вьетнаме.
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	собираем	собирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Dem|Reflex=Yes	4	det	_	_
+4	#Топ100	#Топ100	X	_	_	2	obj	_	_
+5	-	-	PUNCT	_	_	7	punct	_	_
+6	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	_
+7	увидеть	увидеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	acl	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	попробовать	попробовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	conj	_	_
+10	во	во	ADP	_	_	11	case	_	_
+11	Вьетнаме	Вьетнам	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-22
+# speaker = screened-172
+# genre = social
+# text = Чтобы москитов не наесться пока едешь на байке
+1	Чтобы	чтобы	SCONJ	_	Mood=Cnd	4	mark	_	_
+2	москитов	москит	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	obj	_	_
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	_
+4	наесться	наесться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	_
+5	пока	пока	SCONJ	_	_	6	mark	_	_
+6	едешь	ехать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	байке	байк	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+
+# sent_id = instagram-27
+# speaker = screened-8
+# genre = social
+# text = Далат: крейзи Хаус не страшно.
+1	Далат	Далат	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	6	punct	_	_
+3	крейзи	крейзи	X	_	Foreign=Yes	4	compound	_	_
+4	Хаус	Хаус	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	6	nsubj	_	_
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	_
+6	страшно	страшный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	parataxis	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-28
+# genre = social
+# text = Но безумно интересная архитектура и задумка.
+1	Но	но	CCONJ	_	_	4	cc	_	_
+2	безумно	безумно	ADV	_	Degree=Pos	3	advmod	_	_
+3	интересная	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	архитектура	архитектура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	задумка	задумка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = instagram-29
+# genre = social
+# text = Просто улочки понравились в Далате.
+1	Просто	просто	PART	_	_	3	advmod	_	_
+2	улочки	улочка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+3	понравились	понравиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	Далате	Далат	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = instagram-30
+# genre = social
+# text = Заходишь в самые узкие и гуляешь.
+1	Заходишь	заходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	самые	самый	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Emp	4	det	_	_
+4	узкие	узкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1	obl	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	гуляешь	гулять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-31
+# genre = social
+# text = Дома во французском стиле в контрасте с вьетнамцами и их алтарями и атрибутикой.
+1	Дома	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+2	во	во	ADP	_	_	4	case	_	_
+3	французском	французский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	стиле	стиль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	контрасте	контраст	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
+7	с	с	ADP	_	_	8	case	_	_
+8	вьетнамцами	вьетнамец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	6	nmod	_	_
+9	и	и	CCONJ	_	_	11	cc	_	_
+10	их	их	DET	_	Poss=Yes|PronType=Prs	11	det	_	_
+11	алтарями	алтарь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	8	conj	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	атрибутикой	атрибутика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = instagram-32
+# speaker = screened-75
+# genre = social
+# text = Бухта халонг конечно же
+1	Бухта	бухта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	халонг	Халонг	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	1	appos	_	_
+3	конечно	конечно	ADV	_	Degree=Pos	1	parataxis	_	_
+4	же	же	PART	_	_	3	advmod	_	_
+
+# sent_id = instagram-34
+# genre = social
+# text = А как туда добраться лучше?
+1	А	а	CCONJ	_	_	5	cc	_	_
+2	как	как	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	_
+3	туда	туда	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	_
+4	добраться	добраться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	csubj	_	_
+5	лучше	лучше	ADJ	_	Degree=Cmp	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = instagram-37
+# genre = social
+# text = А ещё?)
+1	А	а	CCONJ	_	_	2	cc	_	_
+2	ещё	еще	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+3	?)	?)	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-42
+# speaker = screened-97
+# genre = social
+# text = Алиса!!!
+1	Алиса	Алиса	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	0	root	_	SpaceAfter=No
+2	!!!	!!!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-43
+# genre = social
+# text = Мы сдаемся!!!
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	сдаемся	сдаваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+3	!!!	!!!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-46
+# speaker = screened-201
+# genre = social
+# text = Вау!
+1	Вау	вау	INTJ	_	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-47
+# speaker = screened-62
+# genre = social
+# text = Красота!
+1	Красота	красота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-52
+# speaker = screened-119
+# genre = social
+# text = Красивые вы ребята
+1	Красивые	красивый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	_
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+3	ребята	ребята	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	1	vocative	_	_
+
+# sent_id = instagram-55
+# speaker = screened-194
+# genre = social
+# text = Супер
+1	Супер	супер	ADJ	_	_	0	root	_	_
+
+# sent_id = instagram-57
+# speaker = screened-93
+# genre = social
+# text = Отличный снимок
+1	Отличный	отличный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	снимок	снимок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = instagram-59
+# speaker = screened-188
+# genre = social
+# text = Фото в стиле "выходи за меня, гулять по жизни!"
+1	Фото	фото	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	стиле	стиль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	_
+4	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	выходи	выходить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	nmod	_	_
+6	за	за	ADP	_	_	7	case	_	_
+7	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	гулять	гулять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+10	по	по	ADP	_	_	11	case	_	_
+11	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+12	!	!	PUNCT	_	_	5	punct	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	5	punct	_	_
+
+# sent_id = instagram-60
+# genre = social
+# text = Спасибо за позитив!
+1	Спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	за	за	ADP	_	_	3	case	_	_
+3	позитив	позитив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-61
+# speaker = screened-27
+# genre = social
+# text = Класненько!
+1	Класненько	классненький	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Typo=Yes|Variant=Short	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-62
+# speaker = screened-96
+# genre = social
+# text = Cool!...
+1	Cool	Cool	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+2	!...	!...	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-63
+# speaker = screened-24
+# genre = social
+# text = Очень стильно!
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	_
+2	стильно	стильный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-64
+# speaker = screened-170
+# genre = social
+# text = Привет!
+1	Привет	привет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-68
+# speaker = screened-46
+# genre = social
+# text = На редкость пасмурный январь в Сочи получается...
+1	На	на	ADP	_	_	2	case	_	_
+2	редкость	редкость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+3	пасмурный	пасмурный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	январь	январь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	Сочи	Сочи	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	7	obl	_	_
+7	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+8	...	...	PUNCT	_	_	7	punct	_	_
+
+# sent_id = instagram-69
+# genre = social
+# text = Насчитал, что с начала года всего три дня были солнечными.
+1	Насчитал	насчитать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	11	punct	_	_
+3	что	что	SCONJ	_	_	11	mark	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+6	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	всего	всего	ADV	_	Degree=Pos|PronType=Tot	9	advmod	_	_
+8	три	три	NUM	_	Case=Nom|NumForm=Word|NumType=Card	9	nummod:gov	_	_
+9	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nsubj	_	_
+10	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
+11	солнечными	солнечный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	1	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-79
+# speaker = screened-17
+# genre = social
+# text = Зимняя нелюбовь
+1	Зимняя	зимний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	нелюбовь	нелюбовь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+
+# newpar
+# sent_id = instagram-80
+# genre = social
+# text = До поездки в Крым, в начале этого года, я ни разу не путешествовал зимой.
+1	До	до	ADP	_	_	2	case	_	_
+2	поездки	поездка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	obl	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	Крым	Крым	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	начале	начало	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	conj	_	_
+8	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+12	ни	ни	PART	_	Polarity=Neg	15	advmod	_	_
+13	разу	раз	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	12	fixed	_	_
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	_
+15	путешествовал	путешествовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	зимой	зима	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = instagram-81
+# genre = social
+# text = Вообще, зимой я обычно превращаюсь в хомяка, который максимум способен на два дела - есть и спать.
+1	Вообще	вообще	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	зимой	зима	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	obl	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	обычно	обычно	ADV	_	Degree=Pos	6	advmod	_	_
+6	превращаюсь	превращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	хомяка	хомяк	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	_
+11	максимум	максимум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	obl	_	_
+12	способен	способный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	acl:relcl	_	_
+13	на	на	ADP	_	_	15	case	_	_
+14	два	два	NUM	_	Case=Acc|Gender=Neut|NumForm=Word|NumType=Card	15	nummod:gov	_	_
+15	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	_
+16	-	-	PUNCT	_	_	17	punct	_	_
+17	есть	есть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	appos	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	спать	спать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	conj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = instagram-85
+# genre = social
+# text = Чем больше я живу в Сочи, тем больше я понимаю, что зима это не мое.
+1	Чем	чем	SCONJ	_	_	4	mark	_	_
+2	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	4	advmod	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	живу	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	Сочи	Сочи	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	тем	тем	SCONJ	_	_	11	mark	_	_
+9	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	11	advmod	_	_
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	17	punct	_	_
+13	что	что	SCONJ	_	_	17	mark	_	_
+14	зима	зима	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+15	это	это	PART	_	_	17	expl	_	_
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	_
+17	мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	11	ccomp	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = instagram-86
+# genre = social
+# text = В последние дни путешествия уже весь Крым засыпало снегом, и, видя в Керчи сугробы по колено, я был несколько в шоке и сбегал из зимы как можно быстрее.
+1	В	в	ADP	_	_	3	case	_	_
+2	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	3	amod	_	_
+3	дни	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obl	_	_
+4	путешествия	путешествие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	уже	уже	ADV	_	Degree=Pos	6	advmod	_	_
+6	весь	весь	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	7	det	_	_
+7	Крым	Крым	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	8	obj	_	_
+8	засыпало	засыпать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	снегом	снег	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	iobj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	24	punct	_	_
+11	и	и	CCONJ	_	_	24	cc	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	видя	видеть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	24	advcl	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	Керчи	Керчь	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	13	obl	_	_
+16	сугробы	сугроб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	obj	_	_
+17	по	по	ADP	_	_	18	case	_	_
+18	колено	колено	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	13	punct	_	_
+20	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	_	_
+21	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	cop	_	_
+22	несколько	несколько	ADV	_	Degree=Pos|PronType=Ind	24	advmod	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	шоке	шок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	conj	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	сбегал	сбегать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	conj	_	_
+27	из	из	ADP	_	_	28	case	_	_
+28	зимы	зима	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	obl	_	_
+29	как	как	ADV	_	Degree=Pos|PronType=Rel	31	advmod	_	_
+30	можно	можно	VERB	_	_	29	fixed	_	_
+31	быстрее	быстро	ADV	_	Degree=Cmp	26	advmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	8	punct	_	_
+
+# newpar
+# sent_id = instagram-88
+# genre = social
+# text = Единственное, где я люблю зиму, это в горах и в Сочи, когда снег выпадает на несколько часов.
+1	Единственное	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	где	где	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
+6	зиму	зима	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	1	punct	_	_
+8	это	это	PART	_	_	10	expl	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	горах	гора	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	0	root	_	_
+11	и	и	CCONJ	_	_	13	cc	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	Сочи	Сочи	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	10	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	когда	когда	SCONJ	_	_	17	mark	_	_
+16	снег	снег	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+17	выпадает	выпадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
+18	на	на	ADP	_	_	20	case	_	_
+19	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	20	nummod:gov	_	_
+20	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = instagram-89
+# genre = social
+# text = Пальмы в снегу - незабываемое зрелище.
+1	Пальмы	пальма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	снегу	снег	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	_
+4	-	-	PUNCT	_	_	6	punct	_	_
+5	незабываемое	незабываемый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	зрелище	зрелище	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# newpar
+# sent_id = instagram-92
+# genre = social
+# text = P.S. А ты заметил снежного воробья на фото?
+1	P.	p.	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+2	S.	S.	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	А	а	CCONJ	_	_	5	cc	_	_
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+6	снежного	снежный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	воробья	воробей	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	фото	фото	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = instagram-94
+# speaker = screened-50
+# genre = social
+# text = Офигенное фото!
+1	Офигенное	офигенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	фото	фото	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-95
+# speaker = screened-106
+# genre = social
+# text = вещь!
+1	вещь	вещь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-96
+# speaker = screened-103
+# genre = social
+# text = Очаровательные, милые, классные фото
+1	Очаровательные	очаровательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	милые	милый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	классные	классный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1	conj	_	_
+6	фото	фото	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+
+# sent_id = instagram-98
+# speaker = screened-40
+# genre = social
+# text = Какое крачивое фото
+1	Какое	какой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Exc	3	det	_	_
+2	крачивое	красивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Typo=Yes	3	amod	_	_
+3	фото	фото	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+
+# sent_id = instagram-99
+# speaker = screened-190
+# genre = social
+# text = Нереально круто!
+1	Нереально	нереально	ADV	_	Degree=Pos	2	advmod	_	_
+2	круто	крутой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-101
+# speaker = screened-48
+# genre = social
+# text = Волшебная фотка.
+1	Волшебная	волшебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	фотка	фотка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-102
+# genre = social
+# text = Не могу найти воробья
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	_
+2	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	воробья	воробей	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+
+# sent_id = instagram-107
+# genre = social
+# text = Фото- чудо сказочное!
+1	Фото	фото	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	_
+3	чудо	чудо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	сказочное	сказочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	SpaceAfter=No
+5	!	!	PUNCT	_	_	3	punct	_	_
+
+# newpar
+# sent_id = instagram-109
+# speaker = screened-121
+# genre = social
+# text = Очень классный ракурс!
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	_
+2	классный	классный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	ракурс	ракурс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = instagram-110
+# genre = social
+# text = Цвета завораживают!
+1	Цвета	цвет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	завораживают	завораживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-111
+# speaker = screened-92
+# genre = social
+# text = Было бы круто!
+1	Было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+2	бы	бы	AUX	_	Mood=Cnd	3	aux	_	_
+3	круто	крутой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = instagram-113
+# speaker = screened-202
+# genre = social
+# text = как бы там ни было - фотография демонстрирует, что у природы нет плохой погоды, и все вокруг - удивительная красота!
+1	как	как	ADV	_	Degree=Pos|PronType=Rel	8	advcl	_	_
+2	бы	бы	AUX	_	Mood=Cnd	1	aux	_	_
+3	там	там	ADV	_	Degree=Pos|PronType=Dem	1	advmod	_	_
+4	ни	ни	PART	_	Polarity=Neg	1	advmod	_	_
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_
+6	-	-	PUNCT	_	_	1	punct	_	_
+7	фотография	фотография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+8	демонстрирует	демонстрировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	что	что	SCONJ	_	_	13	mark	_	_
+11	у	у	ADP	_	_	12	case	_	_
+12	природы	природа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	_
+13	нет	нет	VERB	_	Polarity=Neg	8	ccomp	_	_
+14	плохой	плохой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	погоды	погода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nsubj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	22	punct	_	_
+17	и	и	CCONJ	_	_	22	cc	_	_
+18	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	22	nsubj	_	_
+19	вокруг	вокруг	ADV	_	Degree=Pos	18	advmod	_	_
+20	-	-	PUNCT	_	_	22	punct	_	_
+21	удивительная	удивительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	красота	красота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+23	!	!	PUNCT	_	_	8	punct	_	_
+
+# sent_id = instagram-114
+# speaker = screened-176
+# genre = social
+# text = никогда не была в горах.
+1	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	3	advmod	_	_
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	_
+3	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	горах	гора	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = instagram-115
+# genre = social
+# text = они меня пугают,но в жизни надо побывать хоть раз
+1	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+3	пугают	пугать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	SpaceAfter=No
+5	но	но	CCONJ	_	_	8	cc	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	_
+8	надо	надо	VERB	_	_	3	conj	_	_
+9	побывать	побывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	csubj	_	_
+10	хоть	хоть	PART	_	_	11	advmod	_	_
+11	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+
+# sent_id = instagram-117
+# speaker = screened-117
+# genre = social
+# text = Невероятная красота!
+1	Невероятная	невероятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	красота	красота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-118
+# genre = social
+# text = Хотели с мужем туда подняться, но погода не позволила
+1	Хотели	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	мужем	муж	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	_
+4	туда	туда	ADV	_	Degree=Pos|PronType=Dem	1	advmod	_	_
+5	подняться	подняться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	1	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	но	но	CCONJ	_	_	10	cc	_	_
+8	погода	погода	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	_
+10	позволила	позволить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+
+# sent_id = instagram-119
+# speaker = screened-34
+# genre = social
+# text = Даааа, заметил!
+1	Даааа	да	PART	_	Typo=Yes	3	parataxis	_	wf="да"|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = instagram-120
+# genre = social
+# text = Круто!
+1	Круто	крутой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# newpar
+# sent_id = instagram-121
+# speaker = screened-128
+# genre = social
+# text = люблю такого рода фотографии..очень красиво
+1	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	фотографии	фотография	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+5	..	..	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	очень	очень	ADV	_	Degree=Pos	7	advmod	_	_
+7	красиво	красивый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	parataxis	_	_
+
+# sent_id = instagram-122
+# speaker = screened-203
+# genre = social
+# text = как красиво)))
+1	как	как	SCONJ	_	_	2	mark	_	_
+2	красиво	красивый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+3	)))	)))	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-123
+# speaker = screened-160
+# genre = social
+# text = Красивая зима.
+1	Красивая	красивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	зима	зима	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-124
+# genre = social
+# text = Как в сказке
+1	Как	как	SCONJ	_	_	3	case	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	сказке	сказка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = instagram-127
+# speaker = screened-28
+# genre = social
+# text = Здравствуйте!!!!!
+1	Здравствуйте	здравствовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	!!!!!	!!!!!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-128
+# genre = social
+# text = Обращаюсь уже не первый раз!!!
+1	Обращаюсь	обращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	уже	уже	ADV	_	Degree=Pos	4	advmod	_	_
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	_
+4	первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	5	amod	_	_
+5	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+6	!!!	!!!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-129
+# genre = social
+# text = Потерялась Собака 09.01.2019 на Лебедя, отзывается на Лео, чёрно-белый окрас,был в синем ошейнике,последняя информация видели похожую собаку привязана на поводке на Хрюкина не далеко от Купеческого, очень прошу помочь в поисках,кто найдет отблагодарю чем смогу!!!
+1	Потерялась	потеряться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	Собака	собака	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+3	09.01.2019	09.01.2019	NUM	_	NumForm=Digit	1	obl	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	Лебедя	Лебедь	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	1	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	отзывается	отзываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	Лео	Лео	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Prs|Number=Sing	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	чёрно-белый	черно-белый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	окрас	окрас	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	SpaceAfter=No
+14	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	cop	_	_
+15	в	в	ADP	_	_	17	case	_	_
+16	синем	синий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	ошейнике	ошейник	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	SpaceAfter=No
+19	последняя	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	информация	информация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+21	видели	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	20	parataxis	_	_
+22	похожую	похожий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	собаку	собака	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+24	привязана	привязать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	21	parataxis	_	_
+25	на	на	ADP	_	_	26	case	_	_
+26	поводке	поводок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	obl	_	_
+27	на	на	ADP	_	_	28	case	_	_
+28	Хрюкина	Хрюкин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	24	obl	_	_
+29	не	не	PART	_	Polarity=Neg	30	advmod	_	_
+30	далеко	далеко	ADV	_	Degree=Pos	24	advmod	_	_
+31	от	от	ADP	_	_	32	case	_	_
+32	Купеческого	Купеческий	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	30	obl	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	35	punct	_	_
+34	очень	очень	ADV	_	Degree=Pos	35	advmod	_	_
+35	прошу	просить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+36	помочь	помочь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	35	xcomp	_	_
+37	в	в	ADP	_	_	38	case	_	_
+38	поисках	поиск	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	36	obl	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	42	punct	_	SpaceAfter=No
+40	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	41	nsubj	_	_
+41	найдет	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	42	advcl	_	_
+42	отблагодарю	отблагодарить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	_	_
+43	чем	что	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Rel	44	iobj	_	_
+44	смогу	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	42	iobj	_	SpaceAfter=No
+45	!!!	!!!	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+# sent_id = instagram-131
+# genre = social
+# text = Звонить по телефону +7_978_784_60_84 , +7_978_845_12_47 Опубликуйте пожалуйста *_*_* -
+1	Звонить	звонить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+2	по	по	ADP	_	_	3	case	_	_
+3	телефону	телефон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	obl	_	_
+4	+7_978_784_60_84	+7_978_784_60_84	NUM	_	NumForm=Digit	3	appos	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	+7_978_845_12_47	+7_978_845_12_47	NUM	_	NumForm=Digit	4	conj	_	_
+7	Опубликуйте	опубликовать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+8	пожалуйста	пожалуйста	PART	_	_	7	discourse	_	_
+9	*_*_*	*_*_*	PUNCT	_	_	1	punct	_	_
+10	-	-	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-133
+# genre = social
+# text = Спальня номера "Люкс" из нашего проекта #hotel_grafit .
+1	Спальня	спальня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	номера	номер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	Люкс	люкс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No
+5	"	"	PUNCT	_	_	4	punct	_	_
+6	из	из	ADP	_	_	8	case	_	_
+7	нашего	наш	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	_
+8	проекта	проект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+9	#hotel_grafit	#hotel_grafit	X	_	_	8	appos	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-134
+# genre = social
+# text = При создании интерьера очень хотелось сломать симметрию.
+1	При	при	ADP	_	_	2	case	_	_
+2	создании	создание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+3	интерьера	интерьер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	очень	очень	ADV	_	Degree=Pos	5	advmod	_	_
+5	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	сломать	сломать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	симметрию	симметрия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = instagram-136
+# genre = social
+# text = Перевес темных деревянных планок уравновесили свисающими светильниками.
+1	Перевес	перевес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+2	темных	темный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+3	деревянных	деревянный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	планок	планка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+5	уравновесили	уравновесить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	свисающими	свисать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	amod	_	_
+7	светильниками	светильник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	iobj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = instagram-137
+# genre = social
+# text = В интерьере прекрасно сочетаются грубая фактура штукатурки и бетона, мягкий текстиль и глянцевая мебель.
+1	В	в	ADP	_	_	2	case	_	_
+2	интерьере	интерьер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+3	прекрасно	прекрасно	ADV	_	Degree=Pos	4	advmod	_	_
+4	сочетаются	сочетаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	грубая	грубый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	фактура	фактура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+7	штукатурки	штукатурка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	бетона	бетон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	мягкий	мягкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	текстиль	текстиль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	глянцевая	глянцевой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	мебель	мебель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = instagram-139
+# genre = social
+# text = А какой должна быть спальня в гостинице?
+1	А	а	CCONJ	_	_	3	cc	_	_
+2	какой	какой	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Int	3	xcomp	_	_
+3	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+4	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	cop	_	_
+5	спальня	спальня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	гостинице	гостиница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	3	punct	_	_
+
+# newpar
+# sent_id = instagram-140
+# genre = social
+# text = Светлая, темная?
+1	Светлая	светлый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	темная	темный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-141
+# genre = social
+# text = Для отдыха или для "переночевать"?
+1	Для	для	ADP	_	_	2	case	_	_
+2	отдыха	отдых	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+3	или	или	CCONJ	_	_	6	cc	_	_
+4	для	для	ADP	_	_	6	case	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	переночевать	переночевать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	conj	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-142
+# genre = social
+# text = Какая мебель должна быть в спальне номера?
+1	Какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	2	det	_	_
+2	мебель	мебель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+4	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	cop	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	спальне	спальня	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+7	номера	номер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = instagram-143
+# genre = social
+# text = Похожи ли спальни в квартире и гостинице?
+1	Похожи	похожий	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+2	ли	ли	PART	_	_	1	advmod	_	_
+3	спальни	спальня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	квартире	квартира	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	гостинице	гостиница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-144
+# genre = social
+# text = Перед началом проекта мы задавали себе такие вопросы.
+1	Перед	перед	ADP	_	_	2	case	_	_
+2	началом	начало	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	_
+3	проекта	проект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+5	задавали	задавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	5	iobj	_	_
+7	такие	такой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	8	det	_	_
+8	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = instagram-147
+# speaker = screened-43
+# genre = social
+# text = Приходите к нам на фотосессию
+1	Приходите	приходить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+2	к	к	ADP	_	_	3	case	_	_
+3	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	1	obl	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	фотосессию	фотосессия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obl	_	_
+
+# sent_id = instagram-152
+# genre = social
+# text = Желаем Вам огромного счастья и успехов во всех начинаниях.
+1	Желаем	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	iobj	_	_
+3	огромного	огромный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	счастья	счастье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	obj	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	успехов	успех	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	conj	_	_
+7	во	во	ADP	_	_	9	case	_	_
+8	всех	весь	DET	_	Case=Loc|Number=Plur|PronType=Tot	9	det	_	_
+9	начинаниях	начинание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-154
+# speaker = screened-23
+# genre = social
+# text = Добрый вечер,вид изумительный,а что это за номер?
+1	Добрый	добрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	вечер	вечер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	вид	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+5	изумительный	изумительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	SpaceAfter=No
+7	а	а	CCONJ	_	_	11	cc	_	_
+8	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	11	det	_	_
+9	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	_
+10	за	за	ADP	_	_	11	case	_	_
+11	номер	номер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+12	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-155
+# speaker = screened-84
+# genre = social
+# text = Клааааас!!!
+1	Клааааас	класс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	0	root	_	SpaceAfter=No
+2	!!!	!!!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-156
+# genre = social
+# text = Это корпус, где ресепшн?
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	корпус	корпус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	где	где	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	_
+5	ресепшн	ресепшн	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	acl:relcl	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-158
+# speaker = screened-25
+# genre = social
+# text = Президентский люкс во 2 м корпусе.
+1	Президентский	президентский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	люкс	люкс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	во	во	ADP	_	_	6	case	_	_
+4	2	2-й	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Combi|NumType=Ord|Typo=Yes	6	amod	_	_
+5	м	_	X	_	_	4	goeswith	_	_
+6	корпусе	корпус	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# newpar
+# sent_id = instagram-161
+# speaker = screened-278
+# genre = social
+# text = А джакузи под открытым небом?
+1	А	а	CCONJ	_	_	2	cc	_	_
+2	джакузи	джакузи	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	под	под	ADP	_	_	5	case	_	_
+4	открытым	открытый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	небом	небо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-164
+# genre = social
+# text = Да.
+1	Да	да	PART	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-166
+# genre = social
+# text = Это терраса президентских апартаментов «Гелиодор».
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	терраса	терраса	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	президентских	президентский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	апартаментов	апартамент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	«	«	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	Гелиодор	Гелиодор	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Oth|Number=Sing	4	appos	_	SpaceAfter=No
+7	»	»	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-167
+# speaker = screened-101
+# genre = social
+# text = Сколько стоит на двоих?
+1	Сколько	сколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	2	obj	_	_
+2	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	двоих	двое	NUM	_	Animacy=Anim|Case=Acc|NumForm=Word|NumType=Sets	2	nsubj	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-168
+# genre = social
+# text = С пт по вс?
+1	С	с	ADP	_	_	2	case	_	_
+2	пт	пятница	NOUN	_	Abbr=Yes	0	root	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	вс	воскресенье	NOUN	_	Abbr=Yes	2	nmod	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = instagram-169
+# speaker = screened-4
+# genre = social
+# text = Можно ваши расценки посмотреть?
+1	Можно	можно	VERB	_	_	0	root	_	_
+2	ваши	ваш	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs	3	det	_	_
+3	расценки	расценка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+4	посмотреть	посмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	1	punct	_	_
+
+# newpar
+# sent_id = instagram-171
+# speaker = screened-142
+# genre = social
+# text = Ничего себе!!
+1	Ничего	ничего	ADV	_	Degree=Pos|PronType=Neg	0	root	_	_
+2	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	1	fixed	_	SpaceAfter=No
+3	!!	!!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-172
+# genre = social
+# text = Сколько езжу к вам, никогда не знала, что есть такое!!
+1	Сколько	сколько	ADV	_	Degree=Pos|PronType=Rel	2	advmod	_	_
+2	езжу	ездить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+3	к	к	ADP	_	_	4	case	_	_
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	8	advmod	_	_
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	_
+8	знала	знать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	что	что	SCONJ	_	_	11	mark	_	_
+11	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+12	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	SpaceAfter=No
+13	!!	!!	PUNCT	_	_	8	punct	_	_
+
+# sent_id = instagram-173
+# genre = social
+# text = Это в каком номере?
+1	Это	это	PART	_	_	4	expl	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	каком	какой	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Int	4	det	_	_
+4	номере	номер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = instagram-175
+# genre = social
+# text = Это президентские апартаменты «Гелиодор».
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	президентские	президентский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	апартаменты	апартамент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+4	«	«	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	Гелиодор	Гелиодор	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	3	appos	_	SpaceAfter=No
+6	»	»	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = instagram-177
+# genre = social
+# text = Это второй корпус (ближний к ресторану).
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	3	amod	_	_
+3	корпус	корпус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	ближний	ближний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	parataxis	_	_
+6	к	к	ADP	_	_	7	case	_	_
+7	ресторану	ресторан	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = instagram-178
+# genre = social
+# text = Номер «Гелиодор» расположен на 3 этаже.
+1	Номер	номер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	«	«	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	Гелиодор	Гелиодор	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Oth|Number=Sing	1	appos	_	SpaceAfter=No
+4	»	»	PUNCT	_	_	3	punct	_	_
+5	расположен	расположить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	на	на	ADP	_	_	8	case	_	_
+7	3	3	ADJ	_	NumForm=Digit|NumType=Ord	8	amod	_	_
+8	этаже	этаж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = instagram-184
+# speaker = screened-105
+# genre = social
+# text = Здравствуйте, цена за сутки с пятницу на субботу??
+1	Здравствуйте	здравствовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	цена	цена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	parataxis	_	_
+4	за	за	ADP	_	_	5	case	_	_
+5	сутки	сутки	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	nmod	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	пятницу	пятница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|Typo=Yes	5	nmod	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	субботу	суббота	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	??	??	PUNCT	_	_	1	punct	_	_
+
+# newpar
+# sent_id = instagram-185
+# speaker = screened-137
+# genre = social
+# text = Так это джакузи при номере?на личной террасе?
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+3	джакузи	джакузи	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	при	при	ADP	_	_	5	case	_	_
+5	номере	номер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
+7	на	на	ADP	_	_	9	case	_	_
+8	личной	личный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	террасе	терраса	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = instagram-202
+# genre = social
+# text = Единственное, с первыми сильными морозами мы «консервируем» джакузи на балконе до весны.
+1	Единственное	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	с	с	ADP	_	_	6	case	_	_
+4	первыми	первый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur|NumForm=Word|NumType=Ord	6	amod	_	_
+5	сильными	сильный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	6	amod	_	_
+6	морозами	мороз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	9	obl	_	_
+7	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+8	«	«	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	консервируем	консервировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+10	»	»	PUNCT	_	_	9	punct	_	_
+11	джакузи	джакузи	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	балконе	балкон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
+14	до	до	ADP	_	_	15	case	_	_
+15	весны	весна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = instagram-203
+# genre = social
+# text = Поэтому данная фотография, скорее всего, уже знаменует собой закрытие сезона.
+1	Поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	_
+2	данная	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	фотография	фотография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	скорее	скорее	ADV	_	Degree=Cmp	9	parataxis	_	_
+6	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	5	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	уже	уже	ADV	_	Degree=Pos	9	advmod	_	_
+9	знаменует	знаменовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	9	iobj	_	_
+11	закрытие	закрытие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+12	сезона	сезон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = instagram-205
+# speaker = screened-21
+# genre = social
+# text = Здравствуйте.
+1	Здравствуйте	здравствовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-206
+# genre = social
+# text = А акции на проживание в декабре будут?
+1	А	а	CCONJ	_	_	7	cc	_	_
+2	акции	акция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	проживание	проживание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	декабре	декабрь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	_
+7	будут	быть	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	7	punct	_	_
+
+# sent_id = instagram-209
+# genre = social
+# text = Подробнее на нашем сайте yahonty.ru
+1	Подробнее	подробно	ADV	_	Degree=Cmp	4	orphan	_	_
+2	на	на	ADP	_	_	4	case	_	_
+3	нашем	наш	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	_
+4	сайте	сайт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
+5	yahonty.ru	yahonty.ru	X	_	Foreign=Yes	4	appos	_	_
+
+# sent_id = instagram-211
+# genre = social
+# text = Я сегодня смотрела мельком сайт и видимо не заметила!
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	сегодня	сегодня	ADV	_	Degree=Pos	3	advmod	_	_
+3	смотрела	смотреть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	мельком	мельком	ADV	_	Degree=Pos	3	advmod	_	_
+5	сайт	сайт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+6	и	и	CCONJ	_	_	9	cc	_	_
+7	видимо	видимо	ADV	_	Degree=Pos	9	parataxis	_	_
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	_
+9	заметила	заметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+10	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = instagram-216
+# speaker = screened-129
+# genre = social
+# text = Здравствуйте!
+1	Здравствуйте	здравствовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = instagram-217
+# genre = social
+# text = А как забронировать такой номер?
+1	А	а	CCONJ	_	_	3	cc	_	_
+2	как	как	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	_
+3	забронировать	забронировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
+4	такой	такой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	номер	номер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = instagram-219
+# genre = social
+# text = Забронировать можно на сайте или позвонить в отдел бронирования по тел. 8_800_500_4709
+1	Забронировать	забронировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	_
+2	можно	можно	VERB	_	_	0	root	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	сайте	сайт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+5	или	или	CCONJ	_	_	6	cc	_	_
+6	позвонить	позвонить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	conj	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	отдел	отдел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+9	бронирования	бронирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	по	по	ADP	_	_	11	case	_	_
+11	тел.	телефон	NOUN	_	Abbr=Yes	6	obl	_	_
+12	8_800_500_4709	8_800_500_4709	NUM	_	NumForm=Digit	11	appos	_	_
+
+# sent_id = instagram-221
+# genre = social
+# text = Крещение — один из самых важных праздников у православных христиан.
+1	Крещение	крещение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	—	—	PUNCT	_	_	3	punct	_	_
+3	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+4	из	из	ADP	_	_	7	case	_	_
+5	самых	самый	DET	_	Case=Gen|Number=Plur|PronType=Emp	6	det	_	_
+6	важных	важный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	праздников	праздник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+8	у	у	ADP	_	_	10	case	_	_
+9	православных	православный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	христиан	христианин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = instagram-223
+# genre = social
+# text = Данный праздник относится к числу двунадесятых.
+1	Данный	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	праздник	праздник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	относится	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	к	к	ADP	_	_	5	case	_	_
+5	числу	число	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	obl	_	_
+6	двунадесятых	двунадесятый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur|NumForm=Word|NumType=Ord	5	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
